@@ -1,3 +1,5 @@
+// https://leetcode.cn/problems/count-asterisks/
+
 // function countAsterisks(s: string): number {
 //   let start = 0, end = 0;
 //   let count = 0;

@@ -44,6 +44,7 @@
 //   return equalNums.length;
 // }
 
+// https://leetcode.cn/problems/ways-to-make-a-fair-array/
 /**
  * 
  * @param nums 
